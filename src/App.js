@@ -1,9 +1,10 @@
 import './App.css';
+import FavoriteColor from "./components/useState";
 
 function App() {
   return (
     <div>
-      <h1>Let's start Learning</h1>
+      <FavoriteColor/>
     </div>
   );
 }
